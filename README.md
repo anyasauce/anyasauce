@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anyasauce
 - 👀 I’m interested in Web Development, Cyber Security
-- 🌱 I’m currently learning HTML, CSS< JAVASCRIPT, PYTHON, JAVA
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me how to design website
 - 
