@@ -1,4 +1,4 @@
-#👋 Hello! I’m @anyasauce
+# 👋 Hello! I’m @anyasauce
 
 Welcome to my GitHub profile! I'm a passionate web developer on a mission to create innovative and user-friendly applications. Below, you can learn more about my interests, skills, and current projects.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate web developer on a mission to cre
 
 ---
 
-##💻 **Skills**
+## 💻 **Skills**
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python Flask, PHP
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate web developer on a mission to cre
 
 ---
 
-##🧑‍💻 **Currently Learning**
+## 🧑‍💻 **Currently Learning**
 
 - **React.js**: Building dynamic user interfaces with this powerful library.
 - **Node.js**: Exploring server-side development to create efficient applications.
@@ -33,14 +33,14 @@ Welcome to my GitHub profile! I'm a passionate web developer on a mission to cre
 
 ---
 
-##🤝 **Looking to Collaborate On**
+## 🤝 **Looking to Collaborate On**
 
 - **Open-source Projects**: I'm eager to contribute to projects that make a difference.
 - **Creative Solutions**: Let’s brainstorm and develop innovative ideas together!
 
 ---
 
-##📧 **Reach Out**
+## 📧 **Reach Out**
 
 I love connecting with fellow developers and professionals! Feel free to reach out to me via:
 
