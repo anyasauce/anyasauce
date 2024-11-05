@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate web developer on a mission to cre
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python Flask, PHP
-- **Programming**: JavaScript, Java, C++
+- **Programming**: JavaScript, Java, C++, Python
 
 ---
 
